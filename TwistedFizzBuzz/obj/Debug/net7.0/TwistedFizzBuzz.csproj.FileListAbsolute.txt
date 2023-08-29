@@ -1,0 +1,12 @@
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/bin/Debug/net7.0/TwistedFizzBuzz.deps.json
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/bin/Debug/net7.0/TwistedFizzBuzz.dll
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/bin/Debug/net7.0/TwistedFizzBuzz.pdb
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/TwistedFizzBuzz.csproj.AssemblyReference.cache
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/TwistedFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/TwistedFizzBuzz.AssemblyInfoInputs.cache
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/TwistedFizzBuzz.AssemblyInfo.cs
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/TwistedFizzBuzz.csproj.CoreCompileInputs.cache
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/TwistedFizzBuzz.dll
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/refint/TwistedFizzBuzz.dll
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/TwistedFizzBuzz.pdb
+/Users/shree/Downloads/OpenSource/dotnet_as/TwistedFizzBuzz/obj/Debug/net7.0/ref/TwistedFizzBuzz.dll
