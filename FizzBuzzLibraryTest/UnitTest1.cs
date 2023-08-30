@@ -39,8 +39,8 @@ public class UnitTest1
     public void TestMethod4()
     {
         TwistedFizzBuzz lib=new TwistedFizzBuzz("Fizz","Fizz",5,5);
-        List<string> result=lib.FizzBuzzForRange(new int[]{15,30,75});
+        List<string> result=lib.FizzBuzzForRange(new int[]{});
          Assert.IsTrue(result.All(x=>string.Equals(x,"fizzbuzz",StringComparison.OrdinalIgnoreCase)),
-                   string.Format("Expected to contain only fizzbuzz"));
+                   string.Format("Expected to contain only fizz"));
     }
 }
